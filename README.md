@@ -1,12 +1,31 @@
-# React + Vite
+# Tailwind Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ check out this app in:  https://joaquin3312.github.io/tailwind-dashboard/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
 
-## Expanding the ESLint configuration
+This is one of my first projects built with **Tailwind CSS**, focusing on core concepts like a **fully responsive design**, **custom color palettes**, and leveraging the power of Tailwind's utility classes to create clean, modern interfaces.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This dashboard serves as a solid foundation for future projects, showcasing how to customize and structure layouts using Tailwind CSS v4.
+
+---
+
+## Features
+
+- 🎨 **Custom color palette** configured to maintain a consistent visual identity.
+- 📱 **100% responsive design** that adapts to any screen size.
+- ⚡ Full utilization of Tailwind utilities for fast and efficient styling.
+- 🔧 Built with Vite + React + Tailwind CSS v4.
+- 🌔 Dark mode
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/Joaquin3312/tailwind-dashboard.git
+cd tailwind-dashboard
+npm install
+npm run dev
